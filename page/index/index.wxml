@@ -1,0 +1,7 @@
+<view id='root'>
+  <image class='avatar' src='/images/index/cart.jpg'></image>
+  <text class='userName'>hello 陌生人</text>
+  <view class='goStudy' bindtap="toList">
+    <text>我们的征程是星辰和大海!!!</text>
+  </view>
+</view>

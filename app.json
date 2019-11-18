@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "page/list/list",
+    "page/detail/detail",
+    
+    "page/index/index"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#8ed145",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Welcome To My World",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  },
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,20 @@
+<view id="detailContainer">
+  <image class="detail_header" src="/images/detail/carousel/02.jpg"></image>
+  <view class="detail_author_date">
+    <image src="/images/detail/carousel/02.jpg"></image>
+    <text>钢铁侠</text>
+    <text>发布于</text>
+    <text>201819</text>
+  </view>
+  <text class="detail_company">硅谷</text> 
+  <view class="detail_collection_share">
+    <view class="col_share_img">
+      <image catchtap="handeleCollection" src="/images/detail/carousel/02.jpg"></image>
+      <image catchtap="handleShare" src="/images/detail/carousel/02.jpg"></image>
+      <view class="line"></view>
+    </view>
+  </view>
+
+  <button open-type="share">转发此文章</button>
+  <text class="detail_content">大声的撒大事打扫打扫打扫打扫打扫打扫打扫打扫打扫打扫打扫的萨达是的撒大方</text>
+</view>
